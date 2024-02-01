@@ -22,7 +22,9 @@ theme: "minima"
 
 rss: rss
 
-{% include navigation.html %}
+header_pages:
+  - rumerica/index.md
+  - cv.html
 
 kramdown:
   syntax_highlighter_opts:
