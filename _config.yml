@@ -23,14 +23,9 @@ theme: "minima"
 rss: rss
 
 header_pages:
-  - CV.html
   - test.md
   - index.md 
-  - CV.html
-  - cv.html
-  - test.html
   - CV.md
-
 
 kramdown:
   syntax_highlighter_opts:
