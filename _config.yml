@@ -23,7 +23,9 @@ theme: "minima"
 rss: rss
 
 header_pages:
-  - index.md
+  - CV.html
+  - test.md
+  - index.md 
   - CV.html
   - cv.html
   - test.md
