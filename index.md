@@ -1,7 +1,7 @@
 ## About me
 I'm a PhD researcher in urban surface water flooding at the University of Leeds. I code in Python and run flood models in Hec-Ras. 
 
-![Photo of me](/docs/assets/SAM_3017.JPG)
+<img src="/docs/assets/SAM_3017.JPG" alt="drawing" width="200"/>
 
 You can see examples of my work by clicking below.
 
