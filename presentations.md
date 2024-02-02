@@ -12,6 +12,6 @@ title: Presentations
  
   * Predicting Pedestrian Counts using Machine Learning. Presentation to the Association of Geographic Information Laboratories in Europe (AGILE) annual conference. Delft, the Netherlands, 13-16 June 2023. [Slides (pdf)](https://masher92.github.io/pdfs/2023-07-AGILE_ML.pdf). DOI:[10.5194/agile-giss-4-18-2023](https://agile-giss.copernicus.org/articles/4/18/2023/).
     
-  * The sensitivity of urban surface water flood modelling to the temporal structure of rainfall. Poster presentation to HS7.6 Precipitation and Urban Hydrology Session at EGU. Vienna, Austria, 23 - 28 April 2023. [Poster (pdf)](https://masher92.github.io/pdfs/EGU_poster.pdf)
+  * The sensitivity of urban surface water flood modelling to the temporal structure of rainfall. Poster presentation to HS7.6 Precipitation and Urban Hydrology Session at EGU. Vienna, Austria, 23 - 28 April 2023. [Poster (pdf)](https://masher92.github.io/pdfs/EGU_Poster.pdf)
 
 
