@@ -24,8 +24,8 @@ rss: rss
 
 header_pages:
 - projects.md
-- CV.html
-- test.md
+- publications.md
+
 
 kramdown:
   syntax_highlighter_opts:
