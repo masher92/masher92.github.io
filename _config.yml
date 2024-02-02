@@ -28,7 +28,7 @@ header_pages:
 - presentations.md
 
 url: 'https://masher92.github.io/' # your main domain
-baseurl: 'baseurl/' # if you're using custom domain keep this blank example: baseurl: ''
+# baseurl: 'baseurl/' # if you're using custom domain keep this blank example: baseurl: ''
 
 
 kramdown:
