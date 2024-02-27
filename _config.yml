@@ -26,6 +26,7 @@ header_pages:
 - projects.md
 - publications.md
 - presentations.md
+- log.md
 
 url: 'https://masher92.github.io/' # your main domain
 # baseurl: 'baseurl/' # if you're using custom domain keep this blank example: baseurl: ''
