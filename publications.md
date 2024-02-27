@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 ---
-# Publications
 ## Peer reviewed publications
 ### 2023
 Asher, M., Lomax, N., Morrissey, K., Spooner, F. and Malleson, N., 2023. Dynamic calibration with approximate Bayesian computation for a microsimulation of disease spread. Scientific Reports, 13(1), p.8637.  [Available here](https://www.nature.com/articles/s41598-023-35580-z)
