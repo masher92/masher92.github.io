@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Log
+title: Timeline
 ---
-# Log
 
 ### 2024
 **February 2024:** Attended Advances in Flood Modelling and Forecasting Workshop in Sheffield. Event description [here](https://www.sheffield.ac.uk/civil/news/advances-flood-modelling-and-forecasting-workshop#:~:text=Dr%20Georges%20Kesserwani%2C%20Senior%20Lecturer,on%201%2D2%20February%202024)
