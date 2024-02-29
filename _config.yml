@@ -20,8 +20,6 @@ linkedin_username: "molly-asher-a14b45149"
 #########################################################################################
 theme: "minima"
 
-rss: rss
-
 header_pages:
 - projects.md
 - publications.md
