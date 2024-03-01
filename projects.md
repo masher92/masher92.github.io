@@ -12,8 +12,12 @@ Official title: Adaptation strategies to pluvial urban flood risk under UKCP18 c
 
 6 month break from April 2020 - October 2020, and from October 2020 - present 0.6 FTE
 
-# April 2020 to December 2023
-Research assistant on the [DUST project]([https://panorama-dtp.ac.uk/](https://dust.leeds.ac.uk/)) in the School of Geography, University of Leeds. 
+# April 2021 to December 2023
+Research assistant on the [DUST project]([https://panorama-dtp.ac.uk/](https://dust.leeds.ac.uk/)) in the School of Geography, University of Leeds. April 2021-October 2021 FT, October 2021 to December 2023 0.4 FTE.
 
+Including:
+* Working on implementing/improving the parameter calibration in a dynamic microsimulation model of COVID-19 spread in Devon, as part of the [RAMP initiative](https://lida.leeds.ac.uk/a-collaboration-to-support-the-work-of-pandemic-modelling-influencing-policy-and-saving-lives/)
+
+* Work on developing a machine learning model of footfall in Melbourne based on weather, time based variables and characteristics of the urban environment
 
 
