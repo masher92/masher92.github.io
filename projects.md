@@ -4,7 +4,7 @@ title: Projects
 ---
 # 2019 - present
 
-PhD project: Funded by NERC under the [Panorama DTP](https://panorama-dtp.ac.uk/), a collaboration between University of Leeds, the University of York and the University of Hull.  
+PhD project: Funded by NERC under the [Panorama DTP](https://panorama-dtp.ac.uk/), a collaboration between University of Leeds, University of York and University of Hull.  
 _October 2019 - March 2021 FT, 6 month break from April 2021 - October 2021, October 2021 - present 0.6 FTE_
 
 My project sits within the School of Civil Engineering, and the Institute for Climate and Atmospheric Science.  
