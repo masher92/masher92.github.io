@@ -4,9 +4,9 @@ title: Presentations
 ---
 
 **2023**
-  * <p style="color:dodgerblue;">The sensitivity of urban pluvial flooding to the temporal distribution of rainfall. Presentation to the International Workshop on Precipitation in Urban Areas, 29 November - 2 December, Pontresina, Switzerland.  [Slides (pdf)](https://masher92.github.io/pdfs/Prez_MollyAsher.pdf)</p>
+  * <p style="color:darkblue;">The sensitivity of urban pluvial flooding to the temporal distribution of rainfall. Presentation to the International Workshop on Precipitation in Urban Areas, 29 November - 2 December, Pontresina, Switzerland.</p>[Slides (pdf)](https://masher92.github.io/pdfs/Prez_MollyAsher.pdf)
 
-  * <p style="color:tomato;">Predicting pedestrian counts using machine learning. Lightning talk at the Sustainable and equitable cities and regions for a net zero world conference, University of St Andrews and the Alan Turing Institute. 17-18 October, St Andrews, UK. [Slides (pdf)](https://masher92.github.io/pdfs/Molly.pdf)</p>
+  * <p style="color:darkred;">Predicting pedestrian counts using machine learning. Lightning talk at the Sustainable and equitable cities and regions for a net zero world conference, University of St Andrews and the Alan Turing Institute. 17-18 October, St Andrews, UK.</p> [Slides (pdf)](https://masher92.github.io/pdfs/Molly.pdf)
 
   * Using Approximate Bayesian Computation to Infer Disease Parameter Uncertainty in a COVID-19 Microsimulation. Presentation to the 18th Social Simulation Conference, 4-8 September, University of Glasgow, UK. [Slides (pdf)](https://masher92.github.io/pdfs/2023-09-SSC.pdf). [Full paper](https://www.nature.com/articles/s41598-023-35580-z)
  
