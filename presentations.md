@@ -17,11 +17,11 @@ title: Presentations
   * Investigating the sensitivity of surface water flood modelling to the temporal structure of rainfall. Online presentation to the British Hydrological Society. [Presentation recording](https://www.youtube.com/watch?v=VDoh3i_Qx4Q&t=1011s)
 
 **2022**
-* Is misrepresentation of storm temporal profiles leading to misunderstanding of pluvial flood risk in the UK? Lightning talk at the University of Leeds, [Water@Leeds Confluence](https://water.leeds.ac.uk/news/waterleeds-confluence-2022/) meeting
+* Is misrepresentation of storm temporal profiles leading to misunderstanding of pluvial flood risk in the UK? Lightning talk at the University of Leeds, [Water@Leeds Confluence](https://water.leeds.ac.uk/news/waterleeds-confluence-2022/) meeting. 13th October 2022.
 
 **2021**
 * Using Projections from UKCP18’s Convection Permitting Model to Increase Understanding of Future Surface Water Flood Risk in Leeds. Online presentation to the [RMets Virtual Student & Early Career Scientists
-Conference Programme](https://www.rmets.org/sites/default/files/2021-06/virtual_student_conference_programme_2021_0.pdf)
+Conference Programme](https://www.rmets.org/sites/default/files/2021-06/virtual_student_conference_programme_2021_0.pdf). 28th June 2021
 
 
 
