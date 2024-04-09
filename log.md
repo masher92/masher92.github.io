@@ -34,7 +34,7 @@ title: Timeline
 ### 2020
 **March 2020:** COVID-19 lockdown implemented, working from home   
 
-**February 2020:** Attended Royal Society Meeting in London on Intensification of short-duration rainfall extremes and implications for flash flood risks  
+**February 2020:** Attended [Royal Society Meeting](https://www.rmets.org/event/intensification-short-duration-rainfall-extremes-and-implications-flash-flood-risks) in London on Intensification of short-duration rainfall extremes and implications for flash flood risks  
 
 ### 2019
 **October 2019:** Started PhD at the University of Leeds
