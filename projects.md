@@ -14,7 +14,7 @@ Official title: Adaptation strategies to pluvial urban flood risk under UKCP18 c
 
 
 # April 2021 to December 2023
-Research assistant on the [DUST project]([https://panorama-dtp.ac.uk/](https://dust.leeds.ac.uk/)) in the School of Geography, University of Leeds.  
+Research assistant on the [DUST project](https://dust.leeds.ac.uk/)) in the School of Geography, University of Leeds.  
 _April 2021-October 2021 FT, October 2021 to December 2023 0.4 FTE_
 
 Including:
