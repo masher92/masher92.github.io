@@ -7,7 +7,7 @@ title: Timeline
 
 **March 2024:** Paper rejected by Computers, Environment and Urban Systems after review ["Understanding Pedestrian Dynamics using Machine Learning with Real-Time Urban Sensors"]
 
-**February 2024:** Attended Advances in Flood Modelling and Forecasting Workshop in Sheffield. Event description [here](https://www.sheffield.ac.uk/civil/news/advances-flood-modelling-and-forecasting-workshop#:~:text=Dr%20Georges%20Kesserwani%2C%20Senior%20Lecturer,on%201%2D2%20February%202024)
+**February 2024:** Attended [Advances in Flood Modelling and Forecasting Workshop in Sheffield](https://www.sheffield.ac.uk/civil/news/advances-flood-modelling-and-forecasting-workshop#:~:text=Dr%20Georges%20Kesserwani%2C%20Senior%20Lecturer,on%201%2D2%20February%202024)
 
 **February 2024:** Submitted paper to the Journal of Flood Risk Management
 
