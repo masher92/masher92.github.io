@@ -17,7 +17,7 @@ title: Timeline
 
 **November 2023:** Presented a [talk](https://masher92.github.io/pdfs/Prez_MollyAsher.pdf) at the international Workshop on [“Precipitation in Urban Areas"](https://urbanrain.ethz.ch/) in Pontresina, Switzerland
 
-**May 2023:** Paper accepted for publication in Nature Scientific Reports [Dynamic Calibration with Approximate Bayesian Computation for a Microsimulation of Disease Spread](https://www.nature.com/articles/s41598-023-35580-z) 
+**May 2023:** [Paper](https://www.nature.com/articles/s41598-023-35580-z) accepted for publication in Nature Scientific Reports, focusing on a method for calibration of parameters in a model of COVID-19 transmission 
 
 **April 2023:** Presented a [poster](https://meetingorganizer.copernicus.org/EGU23/EGU23-12555.html) in the [Precipitation and Urban Hydrology](https://meetingorganizer.copernicus.org/EGU23/session/45991) session of EGU in Vienna, Austria
 
