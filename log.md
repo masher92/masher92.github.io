@@ -24,10 +24,11 @@ title: Timeline
 
 ### 2021
 
+**October 2021:** Return to working in an office, after 18 months Working from home
+
 **October 2021:** 6 month break from PhD working on the [DUST project](https://dust.leeds.ac.uk/) ends. Recommence PhD at 0.6 FTE, and continue work on DUST 0.4 FTE
 
 **April 2021:** 6 month break from PhD begins, working on the [DUST project](https://dust.leeds.ac.uk/)    
-
 
 
 ### 2020
