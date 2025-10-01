@@ -29,50 +29,32 @@
     {%- endif -%}
   </div>
 </header> -->
+
 <header class="site-header">
   <div class="wrapper">
-    <!-- Site title -->
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
-      {{ site.title | escape }}
-    </a>
-
-    <!-- Hamburger toggle for mobile -->
-    <input type="checkbox" id="nav-toggle" class="nav-toggle" />
-    <label for="nav-toggle" class="nav-toggle-label">&#9776;</label>
-
-    <!-- Navigation menu -->
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
     <ul class="site-nav">
       <li><a href="{{ '/' | relative_url }}">Home</a></li>
-
-      <!-- Presentations dropdown -->
       <li class="has-submenu">
-        <a href="#">Presentations ▾</a>
+        <a href="#">Presentations</a>
         <ul class="submenu">
           <li><a href="{{ '/presentations/overview.html' | relative_url }}">Overview</a></li>
           <li><a href="{{ '/presentations/SSC2025.html' | relative_url }}">SSC 2025</a></li>
-          <li><a href="{{ '/presentations/AGILE2025.html' | relative_url }}">AGILE 2025</a></li>
-          <li><a href="{{ '/presentations/AGILE2024.html' | relative_url }}">AGILE 2024</a></li>
-          <li><a href="{{ '/presentations/GISRUK2025.html' | relative_url }}">GISRUK 2025</a></li>
-          <li><a href="{{ '/presentations/TURING2024.html' | relative_url }}">Turing 2024</a></li>
+          <!-- Add more items here -->
         </ul>
       </li>
-
-      <!-- Papers dropdown -->
       <li class="has-submenu">
-        <a href="#">Papers ▾</a>
+        <a href="#">Papers</a>
         <ul class="submenu">
           <li><a href="{{ '/papers/overview.html' | relative_url }}">Overview</a></li>
-          <!-- add more papers here -->
+          <!-- Add more items here -->
         </ul>
       </li>
-
-      <!-- Projects dropdown -->
       <li class="has-submenu">
-        <a href="#">Projects ▾</a>
+        <a href="#">Projects</a>
         <ul class="submenu">
           <li><a href="{{ '/projects/project1.html' | relative_url }}">Project 1</a></li>
-          <li><a href="{{ '/projects/project2.html' | relative_url }}">Project 2</a></li>
-          <!-- add more projects here -->
+          <!-- Add more items here -->
         </ul>
       </li>
     </ul>
