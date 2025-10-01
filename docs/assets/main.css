@@ -1,31 +1,52 @@
-/* Dropdown container */
-.dropdown {
-  position: relative;
-  display: inline-block;
+/* Desktop navbar */
+.site-nav-desktop ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-/* Dropdown menu (hidden by default) */
-.dropdown-menu {
+.site-nav-desktop li {
+  display: inline-block;
+  position: relative;
+  margin-right: 20px;
+}
+
+.site-nav-desktop li a {
+  text-decoration: none;
+  padding: 8px 12px;
+  color: #333;
+}
+
+.site-nav-desktop .dropdown-menu {
   display: none;
   position: absolute;
-  background-color: #fff;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  border: 1px solid #ccc;
   min-width: 160px;
-  z-index: 1;
+  list-style: none;
   padding: 0;
   margin: 0;
-  list-style: none;
-  border: 1px solid #ccc;
+  z-index: 100;
 }
 
-/* Each link in dropdown */
-.dropdown-menu li a {
+.site-nav-desktop .dropdown-menu li a {
   display: block;
   padding: 8px 12px;
   color: #333;
-  text-decoration: none;
 }
 
-/* Show dropdown on hover */
-.dropdown:hover .dropdown-menu {
+.site-nav-desktop .dropdown:hover .dropdown-menu {
   display: block;
+}
+
+/* Mobile menu - keep your existing styling */
+.site-nav-mobile {
+  display: none; /* hide on desktop */
+}
+
+@media screen and (max-width: 768px) {
+  .site-nav-desktop { display: none; }
+  .site-nav-mobile { display: block; }
 }
