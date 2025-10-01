@@ -1,23 +1,25 @@
-/* Base navbar */
+/* Top-level nav container */
 .site-nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.site-nav li {
-  display: inline-block;
+/* Top-level items horizontal */
+.site-nav > ul > li {
+  display: inline-block;      /* Makes them side by side */
   position: relative;
   margin-right: 20px;
 }
 
-.site-nav li a {
+/* Top-level links */
+.site-nav > ul > li > a {
   text-decoration: none;
   padding: 8px 12px;
   color: #333;
 }
 
-/* Submenu */
+/* Submenu (dropdown) */
 .site-nav li .submenu {
   display: none;
   position: absolute;
@@ -32,11 +34,14 @@
   z-index: 100;
 }
 
+/* Submenu items vertical */
 .site-nav li .submenu li {
   display: block;
 }
 
+/* Submenu links */
 .site-nav li .submenu li a {
+  display: block;
   padding: 8px 12px;
   color: #333;
 }
@@ -46,31 +51,28 @@
   display: block;
 }
 
-/* Mobile */
-.nav-toggle-label {
-  display: none;
-  font-size: 24px;
-  cursor: pointer;
-}
-
+/* Mobile responsiveness */
 @media screen and (max-width: 768px) {
-  .site-nav ul {
-    display: block;
-  }
-  .site-nav li {
-    display: block;
+  .site-nav > ul > li {
+    display: block; /* stack vertically on mobile */
     margin-right: 0;
   }
+
   .site-nav li .submenu {
     position: static;
     border: none;
   }
+
+  .site-nav ul {
+    display: none;  /* hidden until toggle clicked */
+  }
+
   .nav-toggle-label {
     display: block;
+    font-size: 24px;
+    cursor: pointer;
   }
-  .site-nav ul {
-    display: none;
-  }
+
   .nav-toggle:checked + ul {
     display: block;
   }
