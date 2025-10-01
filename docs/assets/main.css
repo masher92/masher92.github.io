@@ -1,31 +1,34 @@
-/* Top-level nav container */
-.site-nav ul {
+/* Ensure the navigation bar is displayed as a flex container */
+.site-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-/* Top-level items horizontal */
-.site-nav > ul > li {
-  display: inline-block;      /* Makes them side by side */
+/* Style each navigation item */
+.site-nav > li {
   position: relative;
-  margin-right: 20px;
+  margin: 0 15px;
 }
 
-/* Top-level links */
-.site-nav > ul > li > a {
+/* Style links inside navigation items */
+.site-nav > li > a {
   text-decoration: none;
-  padding: 8px 12px;
+  padding: 10px 15px;
+  display: block;
   color: #333;
 }
 
-/* Submenu (dropdown) */
+/* Style for dropdown menus */
 .site-nav li .submenu {
   display: none;
   position: absolute;
   top: 100%;
   left: 0;
-  background: #fff;
+  background-color: white;
   border: 1px solid #ccc;
   min-width: 160px;
   list-style: none;
@@ -34,46 +37,19 @@
   z-index: 100;
 }
 
-/* Submenu items vertical */
-.site-nav li .submenu li {
+/* Show submenu on hover */
+.site-nav li:hover .submenu {
   display: block;
 }
 
-/* Submenu links */
+/* Style for submenu items */
 .site-nav li .submenu li a {
-  display: block;
-  padding: 8px 12px;
+  padding: 10px;
   color: #333;
+  text-decoration: none;
 }
 
-/* Show submenu on hover (desktop) */
-.site-nav li.has-submenu:hover .submenu {
-  display: block;
-}
-
-/* Mobile responsiveness */
-@media screen and (max-width: 768px) {
-  .site-nav > ul > li {
-    display: block; /* stack vertically on mobile */
-    margin-right: 0;
-  }
-
-  .site-nav li .submenu {
-    position: static;
-    border: none;
-  }
-
-  .site-nav ul {
-    display: none;  /* hidden until toggle clicked */
-  }
-
-  .nav-toggle-label {
-    display: block;
-    font-size: 24px;
-    cursor: pointer;
-  }
-
-  .nav-toggle:checked + ul {
-    display: block;
-  }
+/* Change color on hover */
+.site-nav li .submenu li a:hover {
+  background-color: #f0f0f0;
 }
