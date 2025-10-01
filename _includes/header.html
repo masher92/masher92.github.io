@@ -32,35 +32,55 @@
 
 <header class="site-header">
   <div class="wrapper">
+    <!-- Site title -->
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
       {{ site.title | escape }}
     </a>
 
+    <!-- Navigation -->
     <nav class="site-nav">
+      <!-- Hamburger toggle for mobile -->
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+      <label for="nav-toggle" class="nav-toggle-label">&#9776;</label>
+
+      <!-- Menu items -->
       <ul>
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
 
+        <!-- Presentations dropdown -->
         <li class="has-submenu">
           <a href="#">Presentations ▾</a>
           <ul class="submenu">
             <li><a href="{{ '/presentations/overview.html' | relative_url }}">Overview</a></li>
-      <li><a href="{{ '/presentations/UrbanRain/urbanrain-2023.html' | relative_url }}">Urban Rain 2023</a></li>
+            <li><a href="{{ '/presentations/SSC2025.html' | relative_url }}">SSC 2025</a></li>
+            <li><a href="{{ '/presentations/AGILE2025.html' | relative_url }}">AGILE 2025</a></li>
+            <li><a href="{{ '/presentations/AGILE2024.html' | relative_url }}">AGILE 2024</a></li>
+            <li><a href="{{ '/presentations/GISRUK2025.html' | relative_url }}">GISRUK 2025</a></li>
+            <li><a href="{{ '/presentations/TURING2024.html' | relative_url }}">Turing 2024</a></li>
           </ul>
         </li>
-        <li><a href="{{ '/publications.html' | relative_url }}">Papers</a></li>
-      </ul>
+
+        <!-- Papers dropdown -->
+        <li class="has-submenu">
+          <a href="#">Papers ▾</a>
+          <ul class="submenu">
+            <li><a href="{{ '/papers/overview.html' | relative_url }}">Overview</a></li>
+            <!-- Add more papers here -->
+          </ul>
         </li>
-        <li><a href="{{ '/projects.html' | relative_url }}">Projects</a></li>
+
+        <!-- Projects dropdown -->
+        <li class="has-submenu">
+          <a href="#">Projects ▾</a>
+          <ul class="submenu">
+            <li><a href="{{ '/projects/project1.html' | relative_url }}">Project 1</a></li>
+            <li><a href="{{ '/projects/project2.html' | relative_url }}">Project 2</a></li>
+            <!-- Add more projects here -->
+          </ul>
+        </li>
       </ul>
-
-
-      
-      <!-- Mobile toggle -->
-      <input type="checkbox" id="nav-toggle" class="nav-toggle" />
-      <label for="nav-toggle" class="nav-toggle-label">&#9776;</label>
     </nav>
   </div>
 </header>
-
 
 
